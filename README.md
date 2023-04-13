@@ -1,11 +1,5 @@
-# Simple-Rename-Bot 
-
-📝 Simple & High Speed Telegram File Rename Bot For only personal use 
-
-
-## How To Deploy
-
-<a href="https://youtu.be/oc847WvOUaI"><img src="https://img.shields.io/badge/Watch%20Tutorial%20On%20YouTube-red.svg?logo=Youtube"></a>                     
+# 𝗠𝗢𝗨𝗡𝗜 𝗥𝗢𝗬 𝗥𝗘𝗡𝗔𝗠𝗘 𝗕𝗢𝗧 
+                     
 
 ## Deployment Support
 
@@ -14,11 +8,11 @@
 
 ⚠️ personal use & 1 process at a time 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/MrMKN/Simple-Rename-Bot&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[ADMIN]&env[CAPTION]&env[THUMBNAIL]&run_command=python%20bot.py&branch=main&name=renamer)              
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/SD-DEEZUZZA-99/Mouni-Roy-Rename&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[ADMIN]&env[CAPTION]&env[THUMBNAIL]&run_command=python%20bot.py&branch=main&name=renamer)              
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/Simple-Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SD-DEEZUZZA-99/Mouni-Roy-Rename)
 
 ## BotFather Command
 ```
@@ -31,6 +25,6 @@ view - view current thumbnail
 
 ## Support
 
-● [BOT UPDATES](https://t.me/mkn_bots_updates)
+● [BOT UPDATES](https://t.me/BOT_MECHANIC_CHANNEL)
 
-● [SUPPORT GROUP](https://t.me/mkn_botz_discussion_group)
+● [SUPPORT GROUP](https://t.me/+lTcjMF6iKqs1MjJl)
